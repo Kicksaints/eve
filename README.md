@@ -1,6 +1,7 @@
-eve
+Event Application codename: 'Eve'
 ===
 
-Event Application
-
-Hello world test
+Tagged:
+- White labelled
+- Sustainable
+- Buying us time
